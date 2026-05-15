@@ -63,4 +63,5 @@ La elección de esta tecnología optimiza el Coste Total de Propiedad (TCO) al u
 
 * Drake, J. M. (2008). **Análisis de requisitos y especificación de una aplicación** \[en línea\] Disponible en: https://www.ctr.unican.es/asignaturas/ingenieria\_software\_4\_f/doc/m3\_08\_especificacion-2011.pdf  
 * García Notario, D. (2015). **Análisis de requisitos en el desarrollo del software**  \[en línea\] Disponible en: https://e-archivo.uc3m.es/rest/api/core/bitstreams/a66b0a2d-fa7c-483f-ac5e-1476ff2da8eb/content
+* Wikipedia contributors. (s/f). Apache Guacamole. Wikipedia, The Free Encyclopedia. Recuperado el 15 de mayo de 2026, de https://es.wikipedia.org/w/index.php?title=Apache_Guacamole&oldid=164554208
 
