@@ -6,7 +6,7 @@
 
 • Licencia: Apache License 2.0 (Licencia de software libre permisiva)  
 
-• Fuente oficial: [https://guacamole.apache.org/](https://guacamole.apache.org/)  
+• Fuente oficial [https://guacamole.apache.org/](https://guacamole.apache.org/)  
 
 # 2\. OpenSSH
 
