@@ -56,8 +56,8 @@ La empresa presentaba riesgos críticos de seguridad al depender de conexiones R
 
 ### 1.2. Solución Propuesta: Infraestructura Híbrida Docker-Guacamole {#1.2.-solución-propuesta:-infraestructura-híbrida-docker-guacamole}
 
-Se ha implementado una solución basada en \*\*Apache Guacamole\*\* sobre \*\*Docker Compose\*\*. Esta arquitectura permite la centralización del acceso vía web (puerto 8080/443), eliminando clientes externos pesados y permitiendo una auditoría centralizada.  
-A diferencia de las conexiones RDP individuales, esta solución ofrece \*\*aislamiento\*\*, ya que cada servicio opera en contenedores estancos, evitando conflictos de dependencias. Además, garantiza un control de acceso unificado que simplifica la gestión técnica y refuerza la seguridad perimetral.
+Se ha implementado una solución basada en Apache Guacamol* sobre Docker Compose. Esta arquitectura permite la centralización del acceso vía web (puerto 8080/443), eliminando clientes externos pesados y permitiendo una auditoría centralizada.  
+A diferencia de las conexiones RDP individuales, esta solución ofrece aislamiento, ya que cada servicio opera en contenedores estancos, evitando conflictos de dependencias. Además, garantiza un control de acceso unificado que simplifica la gestión técnica y refuerza la seguridad perimetral.
 
 * **Centralización**. Un único punto de acceso vía web (puerto 8080/443) para todos los servicios internos.  
 * **Aislamiento**. Gracias a los contenedores, cada servicio (PostgreSQL, Guacamole, SSH) y para evitar conflictos opera en su propio entorno  
