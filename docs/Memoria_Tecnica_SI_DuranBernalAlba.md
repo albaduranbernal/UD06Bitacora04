@@ -61,7 +61,8 @@ La elección de esta tecnología optimiza el Coste Total de Propiedad (TCO) al u
 
 # 2\. Estimación de Costes de Infraestructura
 
-![][image1]
+<img width="833" height="288" alt="image" src="https://github.com/user-attachments/assets/3aefcf4c-2adb-4df7-9028-9403d43319ad" />
+
 
 # 3\. Estrategia de Despliegue y Comunicación
 
